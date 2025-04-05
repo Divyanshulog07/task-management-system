@@ -14,7 +14,7 @@ const NotFoundPage = () => {
         <div className="h-full flex items-center justify-center">
           <div className="grid content-center gap-12 lg:max-w-5xl lg:grid-cols-2 lg:items-center">
             <div className="justify-self-center text-center lg:text-left">
-              <p className="pb-2 font-semibold lg:mt-0 -md:mt-5 mt-12">Error 404</p>
+              <p className="pb-2 font-semibold lg:mt-0 -md:mt-5 mt-10">Error 404</p>
               <h1 className="pb-4 text-5xl font-bold lg:text-6xl lg:mt-0 md:mt-0 mt-5">Hey Buddy</h1>
               <p className="pb-8 md:px-0 px-4 font-semibold">
                 We can't seem to find the page, <br />
